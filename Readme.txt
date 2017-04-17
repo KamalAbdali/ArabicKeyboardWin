@@ -51,45 +51,15 @@ distribute the layout. Such a zip file is downloadable from
 http://geomete.com/ftp/ArabQWERTY-v6.1win.zip
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 *** EDITING PICTURE OF KEYMAP IN PDF ***
 
-The .tex source file for generating UrduQWERTYkeyboardWinLnx.pdf 
-is UrduQWERTYkeyboardWinLnx.tex. It should processed by the 
-XeLaTeX engine.
+The .tex source file for generating ArabQWERTYkeyboardWinLnx.pdf 
+is ArabQWERTYkeyboardWinLnx.tex. It should processed by the 
+XeLaTeX engine. It can be edited to suit a modifed keyboard.
 
 
 *** MORE INFO ***
 
-For more information about this keyboard layout and on setting 
-up your computer for Urdu, visit http://geomete.com/urdumac.html.
+For more information about this keyboard layout up your computer, 
+visit http://geomete.com/urdumac.html.
 
